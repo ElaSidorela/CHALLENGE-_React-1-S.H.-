@@ -1,0 +1,7 @@
+echo "# CHALLENGE-_React-1-S.H.-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ElaSidorela/CHALLENGE-_React-1-S.H.-.git
+git push -u origin main
